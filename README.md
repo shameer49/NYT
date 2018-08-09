@@ -11,3 +11,5 @@ Architecture:
 MVP(Model View Presenter)
 --------------------
 
+Used LIbraries for:
+Json mapping
